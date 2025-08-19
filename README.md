@@ -1,4 +1,4 @@
-# go-bip39
+# go-bip39 (fork of tyler-smith/go-bip39@1.1.0 with fix)
 [![Build Status](https://travis-ci.org/tyler-smith/go-bip39.svg?branch=master)](https://travis-ci.org/tyler-smith/go-bip39)
 [![license](https://img.shields.io/github/license/tyler-smith/go-bip39.svg?maxAge=2592000)](https://github.com/tyler-smith/go-bip39/blob/master/LICENSE)
 [![Documentation](https://godoc.org/github.com/tyler-smith/go-bip39?status.svg)](http://godoc.org/github.com/tyler-smith/go-bip39)
