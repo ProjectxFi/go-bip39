@@ -15,7 +15,7 @@ import "github.com/tyler-smith/go-bip39"
 ```
 и добавить в `go.mod`:
 ```
-replace github.com/tyler-smith/go-bip39 => <ВАШ_РЕПО_ИЛИ_ЛОКАЛЬНЫЙ_ПУТЬ>
+replace github.com/tyler-smith/go-bip39 => github.com/ProjectxFi/go-bip39 v1.1.1
 ```
 
 ## Новый API (пример)
